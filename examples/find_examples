@@ -1,0 +1,2 @@
+find . -name *.py -exec sed -i s/mytuple/mylist/g {} \;
+find . -name *.py -exec sed 's/(\(.apple.*\))/\[\1\]/g' {} \;
