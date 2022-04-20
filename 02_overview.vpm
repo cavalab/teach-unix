@@ -1,0 +1,14 @@
+# Overview
+
+- History of Linux/Unix
+- The basics
+- Manipulating files
+    - cat, head, and tail
+    - chaining commands and text streams
+    - search and replace
+- Terminal-based Text Editors
+- Working Remotely
+    - ssh
+    - tmux
+- Miscellaneous 
+- Exiting Vim

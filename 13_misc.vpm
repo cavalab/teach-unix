@@ -1,0 +1,15 @@
+# Miscellaneous tips 
+
+- `history`: shows you command history
+    - `history | grep x`: find that command you used
+- `Alt + .`: pulls up the last set of arguments to a command.
+
+## Aliases
+- A nice way to shorten common commands. 
+- Store them in `~/.bash_aliases` in your home directory. 
+
+- Examples 
+    - alias gpo="git push origin"
+    - typing gpo expands to the command.
+
+- See: `~/.bash_aliases`

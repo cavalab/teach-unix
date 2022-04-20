@@ -1,0 +1,9 @@
+# Terminal Multiplexers
+
+- "virtual" terminal sessions 
+- usefull for keeping terminals alive on a remote machine
+- two main ones:
+    - tmux
+    - screen
+- demo:
+    - create, detach, and attach

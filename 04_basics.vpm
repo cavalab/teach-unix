@@ -1,0 +1,15 @@
+# Programs: looking around
+
+- the *shell*: the interpreter and language for your inputs 
+    - sh, *bash*, ksh, csh
+    - mostly interoperable
+
+- navigation
+    - ls
+    - cd
+    - tree 
+
+- `env` : see the environment variables
+
+- in general, want to do something? there's a little program for that
+

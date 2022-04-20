@@ -1,0 +1,10 @@
+# Secure Shell (SSH)
+
+- encrypted network protocol
+- available on most linux/unix distros (Mac OS, Ubuntu)
+- configuration can make connections **much** easier
+
+## Linguo
+
+*host* - the computer hosting the connection
+*client* - the computer trying to connect
