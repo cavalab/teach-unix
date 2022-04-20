@@ -9,3 +9,9 @@
 
 - **everything** is a file!
     - specifically, a flat text file
+
+- the *shell*: the interpreter and language for your inputs 
+    - sh, *bash*, ksh, csh
+        - mostly interoperable
+    - also a scripting language!
+        - e.g.: ~/.scripts/proxy_toggle.sh

@@ -1,15 +1,21 @@
-# Programs: looking around
+# Navigation basics
 
-- the *shell*: the interpreter and language for your inputs 
-    - sh, *bash*, ksh, csh
-    - mostly interoperable
 
 - navigation
     - ls
     - cd
     - tree 
 
+- `up arrow`: show last command
+- `tab`: auto-complete
+- `Alt + .`: pulls up the last set of arguments to a command.
 - `env` : see the environment variables
+- `which`: figure out what program you're running
+- `history`: shows you command history
+    - `history | grep x`: find that command you used
+- `ctrl + R`: search history with keystrokes
 
 - in general, want to do something? there's a little program for that
+    - cat, head, tail, cut, paste, sed, awk, grep, ... 
+
 
