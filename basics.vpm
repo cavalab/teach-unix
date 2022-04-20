@@ -1,0 +1,11 @@
+# Unix Basics 
+
+- Unix Philosophy:
+    - minimal, modular software development
+    - each program does *one thing* well
+    - composability
+        - write programs to work together
+        - programs all input and output text streams
+
+- **everything** is a file!
+    - specifically, a flat text file

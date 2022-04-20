@@ -1,0 +1,8 @@
+# Grep
+
+- Grabs regular expressions from text streams
+- uses:
+    - filter through files
+    - find a string throughout a directory
+- very composable with pipes!
+

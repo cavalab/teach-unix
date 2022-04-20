@@ -1,0 +1,11 @@
+# sed
+
+- (s)tream (ed)itor
+
+- runs commands on a stream of text
+- IMO mostly good for search and replace:
+
+```
+cat examples/python/ | sed 's/mytuple/mylist/g' 
+```
+

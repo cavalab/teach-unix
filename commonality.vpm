@@ -1,0 +1,18 @@
+# Common Patterns
+
+- `man x` will pull up the manual for command x. 
+
+- Most programs take arguments as hyphenated inputs, a.ka. *flags*:
+
+```
+    ls -l 
+```
+
+- A lot of programs share these arguments:
+
+    --help : brief usage instructions
+    --version : version of the tool
+    --verbose or -v : print more verbose output
+
+- if `-` is used in place of a file, many programs will use the standard input.
+

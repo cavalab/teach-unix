@@ -1,0 +1,25 @@
+# Text Streams
+
+- Programs input and output text streams. 
+- Outputs from one program can be piped to another:
+
+    ```
+    # sort the environment
+    env | sort
+
+    # find what nvidia driver you have installed
+    dpkg -l | grep nvidia
+    ```
+- `|` is called the *pipe operator*. 
+- Files can also be streamed:
+
+    ```
+    # find an error in a log file
+    cat examples/python/fw_output.txt | grep error
+
+    # write to a file
+    echo "blah blah" > my_blahs.txt
+
+    # append a file
+    echo "blah blah" >> my_blahs.txt
+    ```

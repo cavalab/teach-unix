@@ -1,0 +1,9 @@
+# The UNIX operating system
+
+- Origins: 1969, Bell Labs
+- Ken Thompson & Dennis Ritchie
+    - won a Turing Award for it in 1983
+- Linux, 1991
+    - Unix -> GNU, 1983 -> Linux
+- macOS, 2001 
+    - Unix -> BSD, 1978 -> Mach, 85 -> ... -> Darwin, 2000 -> macOS

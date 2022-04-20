@@ -1,0 +1,17 @@
+# Taking a peek at files
+
+Different commands to view files in the command line:
+
+- `cat`: spit out the whole file. 
+- `head`: print the start of the file.
+- `tail`: print the end of the file. 
+- `less`: when a file is too long for `cat`. 
+
+## Tip: monitor files with `tail -f`. 
+
+- Example:
+
+```
+python examples/python/filewriter.py
+tail -f examples/python/fw_output.txt
+```

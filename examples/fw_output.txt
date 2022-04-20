@@ -1,0 +1,66 @@
+Model training... Error: 1.08
+Model training... Error: 1.12
+Model training... Error: 1.18
+Model training... Error: 1.22
+Model training... Error: 1.19
+Model training... Error: 1.17
+Model training... Error: 1.01
+Model training... Error: 0.92
+Model training... Error: 1.00
+Model training... Error: 0.97
+Model training... Error: 1.05
+Model training... Error: 1.11
+Unexpected error!Model training... Error: 1.11
+Model training... Error: 1.11
+Model training... Error: 1.18
+Model training... Error: 1.16
+Model training... Error: 1.13
+Model training... Error: 1.11
+Unexpected error!Model training... Error: 1.11
+Model training... Error: 1.04
+Model training... Error: 0.96
+Model training... Error: 1.00
+Model training... Error: 1.07
+Model training... Error: 1.13
+Model training... Error: 1.17
+Model training... Error: 1.18
+Unexpected error!Model training... Error: 1.18
+Model training... Error: 1.24
+Model training... Error: 1.26
+Model training... Error: 1.19
+Unexpected error!Model training... Error: 1.19
+Model training... Error: 1.24
+Unexpected error!Model training... Error: 1.24
+Model training... Error: 1.20
+Unexpected error!Model training... Error: 1.20
+Model training... Error: 1.19
+Model training... Error: 1.11
+Unexpected error!Model training... Error: 1.11
+Unexpected error!Model training... Error: 1.11
+Model training... Error: 1.15
+Model training... Error: 1.13
+Model training... Error: 1.10
+Model training... Error: 1.16
+Model training... Error: 1.21
+Model training... Error: 1.22
+Model training... Error: 1.25
+Model training... Error: 1.33
+Model training... Error: 1.30
+Unexpected error!Model training... Error: 1.30
+Model training... Error: 1.32
+Model training... Error: 1.23
+Unexpected error!Model training... Error: 1.23
+Unexpected error!Model training... Error: 1.23
+Model training... Error: 1.15
+Model training... Error: 1.15
+Unexpected error!Model training... Error: 1.15
+Unexpected error!Model training... Error: 1.15
+Model training... Error: 1.20
+Model training... Error: 1.27
+Model training... Error: 1.27
+Model training... Error: 1.37
+Model training... Error: 1.41
+Unexpected error!Model training... Error: 1.41
+Model training... Error: 1.48
+Model training... Error: 1.50
+Model training... Error: 1.41

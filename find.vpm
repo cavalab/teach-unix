@@ -1,0 +1,13 @@
+# Finding files and doing things
+
+- wildcard matches are very useful
+
+```
+ls **/*.py
+```
+
+- `find` command: recursively find files and do things
+
+```
+find . -name "*.py"
+```

@@ -1,0 +1,3 @@
+cat examples/python/mytuple.py | sed 's/mytuple/mylist/g' 
+cat examples/python/mytuple.py | sed 's/mytuple/mylist/g' | sed 's/(\(.'a'.*\))/\[\1\]/g'
+find . -name *.py -exec sed 's/mytuple/mylist/g' | sed 's/(\(.'a'.*\))/\[\1\]/g' {} \;
